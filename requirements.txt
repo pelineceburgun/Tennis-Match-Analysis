@@ -1,0 +1,7 @@
+ultralytics
+roboflow
+supervision
+opencv-python
+matplotlib
+scikit-learn
+yt-dlp
